@@ -1,0 +1,7 @@
+Jacobi ----------> 24197
+Gauss-Seidel ----> 24059
+Mixing w=1.5 ----> 21635
+Mixing w=1.9 ----> 10683 
+Pre-cond w=1.9 --> 1143 (312)
+Pre-cond Jacobi -> 10160 (6073)
+Pre-cond GS -----> 5904 (3714)
